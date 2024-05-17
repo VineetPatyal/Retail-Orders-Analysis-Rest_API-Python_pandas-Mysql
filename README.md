@@ -1,5 +1,5 @@
 # Retail-Orders-Analysis-Rest_API-Python_pandas-Mysql #
-
+![Thumnail Image](https://github.com/VineetPatyal/Retail-Orders-Analysis-Rest_API-Python_pandas-Mysql/assets/152878178/3bf08a53-4067-498f-9402-66ec901d49d2)
 # Part 1 Extracting Data from Web platform 'Kaggle' to Jupyter Notebook
 STEP 1 Go to kaggle website and sign in or sign up for a kaggle account
 STEP 2 Go to settings option scroll down and look for API section and click on Create New Token
@@ -108,5 +108,5 @@ from cte2
 ORDER BY
     (profit_2023 - profit_2022) desc
     Limit 1;
-![Thumnail Image](https://github.com/VineetPatyal/Retail-Orders-Analysis-Rest_API-Python_pandas-Mysql/assets/152878178/3bf08a53-4067-498f-9402-66ec901d49d2)
+
 
